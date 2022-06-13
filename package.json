@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/hotomo1/typescript/issues"
   },
-  "homepage": "https://github.com/hotomo1/typescript#readme"
+  "homepage": "https://github.com/hotomo1/typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "save-dev": "^0.0.1-security"
+  }
 }
