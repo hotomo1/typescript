@@ -1,2 +1,2 @@
 var message = 'Hello, TypeScript!';
-consple.log({ message: message });
+console.log({ message: message });
